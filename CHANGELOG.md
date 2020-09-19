@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.1](https://www.github.com/jef/nvidia-snatcher/compare/v1.2.0...v1.2.1) (2020-09-19)
+
+
+### Bug Fixes
+
+* sms carrier config, add google carrier ([#44](https://www.github.com/jef/nvidia-snatcher/issues/44)) ([971fec2](https://www.github.com/jef/nvidia-snatcher/commit/971fec20e441e2b12a38d5c8d17d2d4cb5e64d6b))
+
 ## [1.2.0](https://www.github.com/jef/nvidia-snatcher/compare/v1.1.0...v1.2.0) (2020-09-19)
 
 
