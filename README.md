@@ -70,6 +70,8 @@ First, you're going to need to copy the `.env.example` to `.env`. The current op
 | `PAGE_TIMEOUT` | Navigation Timeout in milliseconds (`0` for infinite); optional, default: `30000` |
 | `PHONE_NUMBER` | 10 digit phone number (e.g., `1234567890`); optional, email configuration required |
 | `PHONE_CARRIER` | [Supported carriers](#supported-carriers) for SMS; optional, email configuration required |
+| `PUSHOVER_TOKEN` | Application token given when creating a [Pushover application](https://pushover.net/apps/build); optional |
+| `PUSHOVER_USER` | User key given when creating a pushover account; optional |
 | `RATE_LIMIT_TIMEOUT` | Rate limit timeout for each full store cycle; optional, default: `5000` |
 | `SLACK_CHANNEL` | Slack channel for posting (e.g., `update`); optional |
 | `SLACK_TOKEN` | Slack API token; optional
